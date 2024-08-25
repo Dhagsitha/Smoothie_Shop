@@ -1,0 +1,98 @@
+[
+  {
+    "_id": 1,
+    "name": "Apple Juice",
+    "description": "Refreshing blend of freshly squeezed apples.",
+    "image": "/images/fav/img1.jpg",
+    "category": "Popular",
+    "price": 170
+  },
+  {
+    "_id": 2,
+    "name": "Kiwi Juice",
+    "description": "Exotic kiwi juice bursting with vitamins.",
+    "image": "/images/fav/kiwi2.jpg",
+    "category": "Popular",
+    "price": 190
+  },
+  {
+    "_id": 3,
+    "name": "Pineapple Juice",
+    "description": "Tropical delight made from succulent pineapples.",
+    "image": "/images/fav/img5.jpg",
+    "category": "Popular",
+    "price": 130
+  },
+  {
+    "_id": 4,
+    "name": "Hibiscus Honey",
+    "description": "Tangy hibiscus honey with natural goodness.",
+    "image": "/images/fav/HoneyHibLem.jpg",
+    "category": "Popular",
+    "price": 110
+  },
+  {
+    "_id": 5,
+    "name": "Strawberry Smoothie",
+    "description": "Creamy blend of nutritious strawberries.",
+    "image": "/images/fav/strawberry.jpg",
+    "category": "Popular",
+    "price": 170
+  },
+  {
+    "_id": 6,
+    "name": "Pear Mocktail",
+    "description": "Sweet and tangy hibiscus honey enriched with natural goodness.",
+    "image": "/images/fav/pear.jpg",
+    "category": "Popular",
+    "price": 210
+  },
+  {
+    "_id": 7,
+    "name": "Watermelon Juice",
+    "description": "Sweet and tangy hibiscus honey enriched with natural goodness.",
+    "image": "/images/fav/watermelon.jpg",
+    "category": "Popular",
+    "price": 110
+  },
+  {
+    "_id": 8,
+    "name": "Hibi",
+    "description": "Sweet and tangy hibiscus honey enriched with natural goodness.",
+    "image": "/images/fav/pear.jpg",
+    "category": "Popular",
+    "price": 110
+  },
+  {
+    "_id": 9,
+    "name": "Hibiscus Honey",
+    "description": "Sweet and tangy hibiscus honey enriched with natural goodness.",
+    "image": "/images/fav/pear.jpg",
+    "category": "Popular",
+    "price": 110
+  },
+  {
+    "_id": 10,
+    "name": "Hibiscus Honey",
+    "description": "Sweet and tangy hibiscus honey enriched with natural goodness.",
+    "image": "/images/fav/pear.jpg",
+    "category": "Popular",
+    "price": 110
+  },
+  {
+    "_id": 11,
+    "name": "Hibiscus Honey",
+    "description": "Sweet and tangy hibiscus honey enriched with natural goodness.",
+    "image": "/images/fav/pear.jpg",
+    "category": "Popular",
+    "price": 110
+  },
+  {
+    "_id": 12,
+    "name": "Hibiscus Honey",
+    "description": "Sweet and tangy hibiscus honey enriched with natural goodness.",
+    "image": "/images/fav/pear.jpg",
+    "category": "Popular",
+    "price": 110
+  }
+]
